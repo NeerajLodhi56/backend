@@ -7,3 +7,4 @@ const RegisterSchema = new mongoose.Schema({
 //we will create a new collection
 module.exports = mongoose.model("User",RegisterSchema)
 //faaltoo comment
+//second comment
